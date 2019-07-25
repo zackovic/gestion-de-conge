@@ -1,0 +1,9 @@
+read-me :
+
+To make it work in your proper computer:
+
+1) open config.php file...
+
+2) edit the 45th line : specify your hostname , username , password 
+
+
